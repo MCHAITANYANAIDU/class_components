@@ -1,0 +1,18 @@
+.hi {
+    /* background-color:violet; */
+    display: grid;
+    font-size: smaller;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 25px;
+    gap: 10px;
+
+}
+
+button {
+
+    background-color: blue;
+}
+
+img {
+    height: 150px;
+}

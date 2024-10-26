@@ -1,9 +1,12 @@
-import Hell from "./components/new";
+// import Hell from "./components/new";
+
+import Caro from "./components/carosal";
 
 function App(){
   return (
     <>
-   <Hell/>
+   {/* <Hell/> */}
+   <Caro/>
     </>
   );    
 }
